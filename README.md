@@ -9,3 +9,4 @@ And You need to download a dmg
 When The EFI and Dmg is on the usb then boot from it and install MacOS
 Maxinum Nvidia GPU thats supported is a GT 10xx or Pascal Card and maxwell.
 GT 10xx can only go up to MacOS High Sierra 10.13.6.
+IM NOT PROMOTING USING PRE-BUILT EFI'S!!!!!
